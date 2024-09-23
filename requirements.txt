@@ -1,7 +1,7 @@
 flask==2.1.3
 flask-smorest
 python-dotenv
-sqlalchemy  
+sqlalchemy==3.0.2  
 flask-sqlalchemy
 flask-jwt-extended
 passlib
